@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack
 - **Databases**: SQL Server, PostgreSQL, YugabyteDB
 - **Cloud**: Azure, AWS (basic)
-- **Scripting**: PowerShell, T-SQL, Python (beginner)
+- **Scripting**: PowerShell
 - **Monitoring**: SCOM, Zabbix
 - **Tools**: Git, SSMS, Azure Data Studio
 
