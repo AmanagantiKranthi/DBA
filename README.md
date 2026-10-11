@@ -6,11 +6,7 @@
 ---
 
 ### 💼 About Me
-- 🧠 4+ years of experience as a **SQL Server Database Administrator**
-- ☁️ Previously certified in:
-  - **AWS Certified Solutions Architect – Associate** *(expired)*
-  - **Microsoft Certified: Azure Database Administrator Associate** *(expired)*
-- 🟢 **Yugabyte Certified DBA** *(Active)*
+- 🧠 5+ years of experience as a **SQL Server Database Administrator**
 - 🔍 Skilled in performance tuning, backups, high availability, and cloud migrations
 - 🌍 Exploring AI tools for database automation
 
